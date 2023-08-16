@@ -16,7 +16,7 @@ logs
 .DS_Store
 .fleet
 .idea
-service-account.json
+gabriella-haas-therapy-firebase-adminsdk-jka3a-80ee54a869.json
 *.code-workspace
 
 # Local env files
@@ -26,3 +26,4 @@ service-account.json
 
 # Firebase Files
 firestore.rules
+.firebase

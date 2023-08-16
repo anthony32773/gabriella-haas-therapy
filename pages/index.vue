@@ -1,4 +1,5 @@
 <template>
+  <div>
     <h1 class="text-center header">{{ content!.PageTitle }}</h1>
     <h2 class="text-center mb-2 header">
       {{ content!.SubTitle }}
@@ -11,6 +12,7 @@
       :key="index"
       :section="section"
       class="about" />
+  </div>
 </template>
 
 <script setup lang="ts">
